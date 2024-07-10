@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on java,python and HTML projects.
 - 📫 How to reach me 
-- 😄 Pronouns: Mr.
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I want to learn !
 
 <!---
