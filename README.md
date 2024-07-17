@@ -3,7 +3,10 @@
 - 🌱 I’m a software developer.
 - 💞️ I’m looking to collaborate on Java,Python and HTML projects. 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I want to learn !
+- ⚡ Welcome to My GitHub!
+My GitHub is currently under construction as 
+I prepare to add several exciting new projects. 
+Stay tuned for updates!
 
 <!---
 Codex1519/Codex1519 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
