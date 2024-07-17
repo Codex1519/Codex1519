@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chawasch A.
 - 👀 I’m interested in coding
 - 🌱 I’m a software developer.
-- 💞️ I’m looking to collaborate on java,python and HTML projects. 
+- 💞️ I’m looking to collaborate on Java,Python and HTML projects. 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I want to learn !
 
