@@ -10,6 +10,7 @@ Whether it's backend logic or frontend flair – I love bringing ideas to life t
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=black)
 ![Web Design](https://img.shields.io/badge/-Web%20Design-F7DF1E?&logo=html5&logoColor=black)
 
 ---
