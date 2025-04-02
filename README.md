@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @Chawasch A. (Codex1519)
+# 👋 Hi, I'm @Chawasch 
 
 Welcome to my GitHub space – where logic meets creativity 💡💻  
 I'm passionate about solving problems, building tools, and crafting clean code that works.  
