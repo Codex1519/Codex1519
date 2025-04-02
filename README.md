@@ -1,12 +1,32 @@
-- 👋 Hi, I’m @Chawasch A.
-- 👀 I’m interested in coding
-- 🌱 I’m a software developer.
-- 🤝 I’m looking to collaborate on Java,Python and WebDesgin projects. 
-- 😄 Pronouns: he/him
-- ⚡ Welcome to My GitHub!
+# Hey, I'm Chawasch ! 👋
 
+Welcome to my GitHub space – where logic meets creativity 💡💻  
+I'm passionate about solving problems, building tools, and crafting clean code that works.  
+Whether it's backend logic or frontend flair – I love bringing ideas to life through code.
 
-<!---
-Codex1519/Codex1519 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🚀 Technologies I work with:
+
+![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?&logo=java&logoColor=white)
+![Web Design](https://img.shields.io/badge/-Web%20Design-F7DF1E?&logo=html5&logoColor=black)
+
+---
+
+### 🧠 Interests
+- 🧩 Software Design & Architecture
+- 🔐 Security & Clean Code
+- 🌐 Fullstack Web Development
+- 🧪 Automating boring stuff with Python
+
+---
+
+### 📫 How to reach me:
+Feel free to connect or collaborate!  
+Let’s build something awesome together.  
+📧 *Your email or portfolio link goes here*
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
