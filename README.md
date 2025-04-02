@@ -1,8 +1,11 @@
-# Hey, I'm Chawasch ! 👋
+# 👋 Hi, I'm @Chawasch A. (Codex1519)
 
 Welcome to my GitHub space – where logic meets creativity 💡💻  
 I'm passionate about solving problems, building tools, and crafting clean code that works.  
 Whether it's backend logic or frontend flair – I love bringing ideas to life through code.
+
+I started my coding journey in **2024** and I'm currently in the early stages of my development career.  
+I'm especially interested in building projects using **Java** and **Python**, and I'm currently learning the ropes in **web development**.
 
 ---
 
@@ -11,23 +14,27 @@ Whether it's backend logic or frontend flair – I love bringing ideas to life t
 ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=black)
-![Web Design](https://img.shields.io/badge/-Web%20Design-F7DF1E?&logo=html5&logoColor=black)
+![Web Development](https://img.shields.io/badge/-Web%20Development-0A0A0A?&logo=html5&logoColor=orange)
 
 ---
 
 ### 🧠 Interests
-- 🧩 Software Design & Architecture
-- 🔐 Security & Clean Code
-- 🌐 Fullstack Web Development
-- 🧪 Automating boring stuff with Python
+
+- 🛠️ Java & Python Projects
+- 💡 Web Development (Learning Phase)
+- 🔐 Security & Clean Code Principles
+- 🧪 Writing code that automates and solves real-world problems
 
 ---
 
-### 📫 How to reach me:
+### 📬 How to reach me:
+
 Feel free to connect or collaborate!  
 Let’s build something awesome together.  
-📧 *Your email or portfolio link goes here*
+📫 *Your email or portfolio link goes here*
 
----
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+
+
+
