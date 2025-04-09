@@ -31,7 +31,7 @@ I'm especially interested in building projects using **Java** and **Python**, an
 
 Feel free to connect or collaborate!  
 Let’s build something awesome together.  
-📫 *Your email or portfolio link goes here*
+
 
 
 
