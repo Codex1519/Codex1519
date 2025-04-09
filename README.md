@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @Chawasch 
 
-Welcome to my GitHub space – where logic meets creativity 💡💻  
+Welcome to my GitHub space !  
 I'm passionate about solving problems, building tools, and crafting clean code that works.  
 Whether it's backend logic or frontend flair – I love bringing ideas to life through code.
 
