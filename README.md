@@ -1,39 +1,52 @@
-# 👋 Hi, I'm @Chawasch 
+# 👋 Hi, I'm Chawasch
 
-Welcome to my GitHub space !  
-I'm passionate about solving problems, building tools, and crafting clean code that works.  
-Whether it's backend logic or frontend flair – I love bringing ideas to life through code.
+Welcome to my GitHub.
 
-I started my coding journey in **2024** and I'm currently in the early stages of my development career.  
-I'm especially interested in building projects using **Java** and **Python**, and I'm currently learning the ropes in **web development**.
+I’m a **Software Developer (Fachinformatiker für Anwendungsentwicklung)** with a strong interest in backend development, databases and building practical software solutions.
+
+I enjoy understanding how systems work, analysing problems and turning ideas into working software. My goal is to continuously improve my technical skills and gain deeper knowledge in modern software development.
 
 ---
 
-### 🚀 Technologies I work with:
+## 🚀 Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=black)
-![Web Development](https://img.shields.io/badge/-Web%20Development-0A0A0A?&logo=html5&logoColor=orange)
+![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?&logo=database&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white)
+
+Currently learning and exploring:
+
+![C++](https://img.shields.io/badge/-C++-00599C?&logo=cplusplus&logoColor=white)
 
 ---
 
-### 🧠 Interests
+## 🧠 What interests me
 
-- 🛠️ Java & Python Projects
-- 💡 Web Development (Learning Phase)
-- 🔐 Security & Clean Code Principles
-- 🧪 Writing code that automates and solves real-world problems
+- Backend development  
+- Databases and SQL  
+- Clean and structured code  
+- Understanding system logic and software architecture  
+- Building tools that solve real-world problems  
 
 ---
 
-### 📬 How to reach me:
+## 📚 Currently improving
 
-Feel free to connect or collaborate!  
-Let’s build something awesome together.  
+- C++ fundamentals
+- Backend development concepts
+- Databases and data processing
+- Software architecture and best practices
 
+---
 
+## 🤝 Collaboration
 
+I'm always interested in learning, improving and collaborating with other developers.
+
+Feel free to connect or check out my projects.
 
 
 
