@@ -2,7 +2,7 @@
 
 Welcome to my GitHub.
 
-I’m a **Software Developer (Fachinformatiker für Anwendungsentwicklung)** with a strong interest in backend development, databases and building practical software solutions.
+I’m a **Software Developer** with a strong interest in backend development, databases and building practical software solutions.
 
 I enjoy understanding how systems work, analysing problems and turning ideas into working software. My goal is to continuously improve my technical skills and gain deeper knowledge in modern software development.
 
