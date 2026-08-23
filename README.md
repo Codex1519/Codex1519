@@ -16,6 +16,8 @@ I'd rather understand a system than memorize it, and I'd rather ship something u
 ![Swift](https://img.shields.io/badge/-Swift-F05138?&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?&logo=xcode&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white)
 
 Learning in the background:
@@ -26,8 +28,10 @@ Learning in the background:
 
 ## Currently
 
-- Building a full-stack CRM/ERP system for the railway construction industry — FastAPI, React, PostgreSQL, Docker, deployed and in use
-- iOS app development with **Swift** and **Xcode**
+- Building **[Vay Software](https://vaysoftware.com)** — a software studio in the making: custom software, apps, web applications and the infrastructure behind them
+- Full-stack CRM for the railway construction industry — FastAPI, React, PostgreSQL, Docker — deployed and in daily use
+- Running the platform behind it myself: self-hosted mail server, website, monitoring and backups on self-managed Linux servers
+- iOS app development with **Swift** and **Xcode** — first own app in the works
 - Deepening C++ fundamentals and software architecture
 
 ---
@@ -42,4 +46,4 @@ Learning in the background:
 
 ## Contact
 
-Open to collaboration and interesting problems. The projects below say more than this page does.
+Open to collaboration and interesting problems — reach me at [info@vaysoftware.com](mailto:info@vaysoftware.com) or via [vaysoftware.com](https://vaysoftware.com). The projects below say more than this page does.
