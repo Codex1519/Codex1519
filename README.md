@@ -29,7 +29,7 @@ Learning in the background:
 ## Currently
 
 - Building **[Vay Software](https://vaysoftware.com)** — a software studio in the making: custom software, apps, web applications and the infrastructure behind them
-- Full-stack CRM for the railway construction industry — FastAPI, React, PostgreSQL, Docker — deployed and in daily use
+- Full-stack business software for the railway construction industry (CRM + daily operations) — FastAPI, React, PostgreSQL, Docker — deployed and in daily use
 - Running the platform behind it myself: self-hosted mail server, website, monitoring and backups on self-managed Linux servers
 - iOS app development with **Swift** and **Xcode** — first own app in the works
 - Deepening C++ fundamentals and software architecture
