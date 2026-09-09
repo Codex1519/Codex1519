@@ -64,4 +64,6 @@ Learning in the background:
 
 ## Contact
 
+Most of my work lives in private repositories (client and personal projects). Happy to walk through code and architecture on request.
+
 Open to collaboration and interesting problems — reach me at [info@vaysoftware.com](mailto:info@vaysoftware.com) or via [vaysoftware.com](https://vaysoftware.com).
