@@ -26,6 +26,7 @@ I'd rather understand a system than memorize it, and I'd rather ship something u
 ![Swift](https://img.shields.io/badge/-Swift-F05138?&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?&logo=xcode&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D4?&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDRoMThhMSAxIDAgMCAxIDEgMXYxNGExIDEgMCAwIDEtMSAxSDNhMSAxIDAgMCAxLTEtMVY1YTEgMSAwIDAgMSAxLTF6bTEgNXY5aDE2Vjl6Ii8+PC9zdmc+&logoColor=white)
 
 By day: Windows infrastructure in the public sector — Citrix, Active Directory, Sophos firewalls, endpoints and networks.
 
