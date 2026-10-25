@@ -19,6 +19,7 @@ I'd rather understand a system than memorize it, and I'd rather ship something u
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?&logo=debian&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?&logo=nginx&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/-Tailscale-242424?&logo=tailscale&logoColor=white)
+![Sophos Firewall](https://img.shields.io/badge/-Sophos%20Firewall-0066B3?&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAybDggM3Y2YzAgNS0zLjQgOS4zLTggMTEtNC42LTEuNy04LTYtOC0xMVY1eiIvPjwvc3ZnPg==&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?&logo=n8n&logoColor=white)
 ![PocketBase](https://img.shields.io/badge/-PocketBase-B8DBE4?&logo=pocketbase&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white)
@@ -51,6 +52,7 @@ Learning in the background:
 
 - MacBook Pro 14" (M5, Apple Silicon), macOS — development and daily driver
 - Debian home server (Docker, KVM, Tailscale) and an Ubuntu VPS at Hetzner (nginx, mail, n8n)
+- My own Sophos Firewall (Home Edition) running in a VM, managed over Tailscale
 - Windows machines only for the people I support
 
 ---
