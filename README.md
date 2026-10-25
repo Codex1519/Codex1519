@@ -2,11 +2,11 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dunkel.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-hell.svg">
-    <img src="assets/banner-hell.svg" width="100%" alt="Chawasch – Systems administrator · Software developer">
+    <img src="assets/banner-hell.svg" width="100%" alt="Chawasch – Software developer · Systems administrator">
   </picture>
 </p>
 
-Systems administrator and software developer. I build practical systems — backend services, databases, the apps that sit on top of them — and I run the infrastructure they live on myself.
+Software developer and systems administrator. I build practical systems — backend services, databases, the apps that sit on top of them — and I run the infrastructure they live on myself.
 
 I'd rather understand a system than memorize it, and I'd rather ship something useful than talk about it. Clear code, real problems, steady progress.
 
